@@ -1,1 +1,1 @@
-This is a first project to learn how to use git
+The is my first project on how to become a full-stack engineer
